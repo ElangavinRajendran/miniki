@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/miniki/static/css/main.82fc49b9.css",
+    "main.js": "/miniki/static/js/main.0626ff62.js",
+    "static/media/you1.jpeg": "/miniki/static/media/you1.accf6133ffa15571bcca.jpeg",
+    "index.html": "/miniki/index.html",
+    "main.82fc49b9.css.map": "/miniki/static/css/main.82fc49b9.css.map",
+    "main.0626ff62.js.map": "/miniki/static/js/main.0626ff62.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.82fc49b9.css",
+    "static/js/main.0626ff62.js"
+  ]
+}
